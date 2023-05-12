@@ -1,0 +1,6 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1682270111" />
+    <testcase name="DP_TEST" classname="SUBROUTINE_TEST" file="C:\Users\ardaunver\Desktop\EE446PRE2\INSTRCOCO\SUBROUTINE_TEST.py" lineno="9" time="0.031245708465576172" sim_time_ns="86000" ratio_time="2752377.981595373" />
+  </testsuite>
+</testsuites>

@@ -1,0 +1,6 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1682272419" />
+    <testcase name="CTRL_TEST" classname="CTRL_TEST" file="C:\Users\ardaunver\Desktop\EE446PRE2\CTRLCOCO\CTRL_TEST.py" lineno="9" time="0.015609979629516602" sim_time_ns="46000" ratio_time="2946832.801307409" />
+  </testsuite>
+</testsuites>
